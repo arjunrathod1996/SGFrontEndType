@@ -10,7 +10,7 @@ export interface Scope {
     isIcUser?: boolean;
     isSgGroupContact?: boolean;
     isInternal?: boolean;
-}
+}// Sairam
 
 export interface Contact {
     id?: string;
