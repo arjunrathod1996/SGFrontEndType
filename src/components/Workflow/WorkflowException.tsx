@@ -4,7 +4,7 @@ import { useStoreState } from '../../store/hooks';
 
 interface IworkflowProps {
     activeStep : number;
-};
+}; // Arjn
 
 interface StepInfos {
     title: string;
